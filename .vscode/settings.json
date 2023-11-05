@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "FALTU.C": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "streambuf": "cpp"
+    }
+}
